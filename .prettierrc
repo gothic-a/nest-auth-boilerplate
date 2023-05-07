@@ -5,5 +5,6 @@
 	"useTabs": true,
 	"endOfLine": "auto",
 	"bracketSpacing": true,
-	"semi": false
+	"semi": false,
+	"printWidth": 120
 }
